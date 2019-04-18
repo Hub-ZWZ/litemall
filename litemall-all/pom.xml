@@ -22,10 +22,10 @@
             <artifactId>litemall-db</artifactId>
         </dependency>
 
-        <dependency>
-            <groupId>org.linlinjava</groupId>
-            <artifactId>litemall-wx-api</artifactId>
-        </dependency>
+        <!--<dependency>-->
+            <!--<groupId>org.linlinjava</groupId>-->
+            <!--<artifactId>litemall-wx-api</artifactId>-->
+        <!--</dependency>-->
 
         <dependency>
             <groupId>org.linlinjava</groupId>
