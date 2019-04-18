@@ -56,7 +56,7 @@
 3. 启动服务
     ```bash
     sudo service litemall stop
-    sudo ln -f -s /home/ubuntu/deploy/litemall/litemall.jar /etc/init.d/litemall
+    sudo ln -f -s /root/java/code/litemall/deploy/litemall/litemall.jar /etc/init.d/litemall
     sudo service litemall start
     ```
 4. 测试是否部署成功(xxx.xxx.xxx.xxx是云主机IP）：
